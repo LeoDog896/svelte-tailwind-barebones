@@ -1,6 +1,8 @@
-# duckshow
-ducks and other random animals.
+# svelte tailwind barebones
 
-built with <3 using svelte.
+A simple and straightforward svelte template with:
 
-can be found at https://leodog896.github.io/duckshow/
+- Svelte
+- Tailwind
+
+Modify this template for your own needs.
