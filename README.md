@@ -1,4 +1,6 @@
-# svelte tailwind barebones
+# use sttv instead
+
+## svelte tailwind barebones
 
 A simple and straightforward svelte template with:
 
